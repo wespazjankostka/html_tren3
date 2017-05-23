@@ -1,0 +1,71 @@
+body
+{
+	margin:0;
+	background-color:white;
+	color:white;
+}
+
+#top
+{
+	width:100%;
+	height:40px;
+	background-color:black;
+	padding-top:10px;
+	padding-bottom:10px;
+
+}
+
+#logo
+{
+	font-size:30px;
+	padding:5px;
+	text-transform:uppercase;
+	background-color:green;
+	text-align:center;
+	width:400px;
+	height:30px;
+	float:left;
+	margin-left:10px;
+	margin-right:10px;
+}
+
+#socials
+{
+	font-size:30px;
+	padding:5px;
+	text-transform:uppercase;
+	background-color:green;
+	text-align:center;
+	width:400px;
+	height:30px;
+	float:left;
+	margin-left:10px;
+	margin-right:10px;
+}
+#nav
+{
+	font-size:30px;
+	padding:5px;
+	text-transform:uppercase;
+	background-color:green;
+	text-align:center;
+	width:400px;
+	height:30px;
+	float:left;
+	margin-left:10px;
+	margin-right:10px;
+}
+#container
+{
+	width:100%;
+	height:630px;
+	background-color:white;
+}
+#foot
+{
+	width:100%;
+	height:60px;
+	background-color:black;
+	padding-top:10px;
+	padding-bottom:10px;
+}
